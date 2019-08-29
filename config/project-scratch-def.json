@@ -1,0 +1,12 @@
+{
+    "orgName": "Einstein Prediction Builder/Einstein Next Best Action Scratch Org",
+    "description": "epbnbascratchorg",
+    "template": "0TTB0000000adtX",
+    "settings": {
+        "orgPreferenceSettings": {
+            "s1DesktopEnabled": true,
+            "s1EncryptedStoragePref2": false,
+            "selfSetPasswordInApi": true
+      }
+    }
+}
