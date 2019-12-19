@@ -1,12 +1,19 @@
 {
-    "orgName": "Einstein Prediction Builder/Einstein Next Best Action Scratch Org",
-    "description": "epbnbascratchorg",
-    "template": "0TTB0000000h4zf",
-    "settings": {
-        "orgPreferenceSettings": {
-            "s1DesktopEnabled": true,
-            "s1EncryptedStoragePref2": false,
-            "selfSetPasswordInApi": true
+  "orgName": "Einstein Prediction Builder/Einstein Next Best Action Scratch Org",
+  "adminEmail": "shane@mailinator.com",
+  "description": "epbnbascratchorg",
+  "template": "0TTB0000000h4zf",
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "securitySettings": {
+      "passwordPolicies": {
+        "enableSetPasswordInApi": true
       }
     }
+  }
 }
